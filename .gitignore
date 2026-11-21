@@ -1,0 +1,3 @@
+target/
+barcode.db
+Cargo.lock
